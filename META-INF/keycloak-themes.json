@@ -1,0 +1,5 @@
+{
+  "themes": [
+    { "name": "unimed-litoral", "types": ["login"] }
+  ]
+}
